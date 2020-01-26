@@ -12,8 +12,9 @@ import { ProductService } from './product.service';
   declarations: [
     AppComponent,
     ProductPageComponent,
-    ProductDescriptionComponent,
-    ProductService
+    
+    ProductDescriptionComponent
+    
   
   ],
   imports: [
